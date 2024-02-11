@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Help Me Platform for Student Services</title>
+
+    <style>
+
+        Body {
+
+            Font-family: Arial, sans-serif;
+
+            Margin: 0;
+
+            Padding: 0;
+
+        }
+
+        Header {
+
+            Background-color: #4CAF50;
+
+            Color: white;
+
+            Text-align: center;
+
+            Padding: 1rem;
+
+        }
+
+        Main {
+
+            Padding: 2rem;
+
+        }
+
+        H2 {
+
+            Margin-bottom: 1rem;
+
+        }
+
+        Ul {
+
+            List-style-type: none;
+
+            Padding: 0;
+
+        }
+
+        Li {
+
+            Margin-bottom: 1rem;
+
+        }
+
+        A {
+
+            Color: #4CAF50;
+
+            Text-decoration: none;
+
+        }
+
+        A:hover {
+
+            Text-decoration: underline;
+
+        }
+
+    </style>
+
+</head>
+
+<body>
+
+    <header>
+
+        <h1>Help Me Platform for Student Services</h1>
+
+    </header>
+
+    <main>
+
+        <h2>Welcome to the Help Me Platform for Student Services</h2>
+
+        <p>Here are some resources that can help you with your student services needs:</p>
+
+        <ul>
+
+            <li><a href="https://www.example.com/student-services/financial-aid">Financial Aid</a></li>
+
+            <li><a href="https://www.example.com/student-services/academic-advising">Academic Advising</a></li>
+
+            <li><a href="https://www.example.com/student-services/disability-services">Disability Services</a></li>
+
+            <li><a href="https://www.example.com/student-services/health-services">Health Services</a></li>
+
+            <li><a href="https://www.example.com/student-services/housing">Housing</a></li>
+
+        </ul>
+
+    </main>
+
+</body>
+
+</html>
+
